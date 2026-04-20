@@ -1,6 +1,6 @@
-# 📡 Microstrip Patch Antenna for 5G Applications
+#  Microstrip Patch Antenna for 5G Applications
 
-## 📖 Overview
+##  Overview
 This project presents the design and comparative analysis of **Rectangular and Circular Microstrip Patch Antennas** for **sub-6 GHz 5G applications**.
 
 The antennas are designed and simulated using **HFSS (High Frequency Structure Simulator)** and evaluated based on key performance parameters such as:
@@ -11,7 +11,7 @@ The antennas are designed and simulated using **HFSS (High Frequency Structure S
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 - Design rectangular and circular microstrip patch antennas
 - Analyze antenna performance in 5.3 – 5.5 GHz range
 - Compare different dielectric substrates
@@ -19,23 +19,23 @@ The antennas are designed and simulated using **HFSS (High Frequency Structure S
 
 ---
 
-## 🛠️ Tools Used
+##  Tools Used
 - HFSS (ANSYS)
 - Electromagnetic Simulation
 - Transmission Line Model
 
 ---
 
-## 📊 Results Summary
+##  Results Summary
 
-### 🔷 Rectangular Patch Antenna
+###  Rectangular Patch Antenna
 - Frequency: 5.3 GHz
 - Return Loss: -10.12 dB
 - VSWR: 1.9
 - Gain: 6.03 dBi
 - Best Substrate: GETEK ML200
 
-### 🔶 Circular Patch Antenna
+###  Circular Patch Antenna
 - Frequency: 5.5 GHz
 - Return Loss: -20.91 dB
 - VSWR: 1.56
@@ -44,7 +44,7 @@ The antennas are designed and simulated using **HFSS (High Frequency Structure S
 
 ---
 
-## 📈 Key Findings
+##  Key Findings
 - Circular antenna shows better impedance matching
 - Rectangular antenna provides stable performance
 - Substrate selection significantly affects antenna performance
@@ -52,7 +52,7 @@ The antennas are designed and simulated using **HFSS (High Frequency Structure S
 
 ---
 
-## 📷 Simulation Results
+##  Simulation Results
 
 ### Rectangular Antenna
 ![Rectangular Antenna](images/rectangular_antenna.png)
@@ -71,7 +71,7 @@ The antennas are designed and simulated using **HFSS (High Frequency Structure S
 
 ---
 
-## 🚀 Applications
+##  Applications
 - 5G Wireless Communication
 - IoT Devices
 - Wireless Networks
@@ -79,13 +79,13 @@ The antennas are designed and simulated using **HFSS (High Frequency Structure S
 
 ---
 
-## 📄 Project Report
+##  Project Report
 Full report available here:  
 📎 [Project_Report.pdf](Project_Report.pdf)
 
 ---
 
-## 🔮 Future Work
+##  Future Work
 - Fabrication of antenna
 - Bandwidth enhancement techniques
 - MIMO antenna design
@@ -93,11 +93,11 @@ Full report available here:
 
 ---
 
-## 👨‍💻 Author
-- H Pavan
+##  Author
+- H Pavan & GRP
 - Department of ECE
 - Government Engineering College, Karnataka
 
 ---
 
-## ⭐ If you like this project, give it a star!
+##  If you like this project, give it a star!
