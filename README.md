@@ -81,7 +81,7 @@ The antennas are designed and simulated using **HFSS (High Frequency Structure S
 
 ##  Project Report
 Full report available here:  
-📎 [Project_Report.pdf](Project_Report.pdf)
+📎 [https://github.com/hpavan1924/5G-Microstrip-Antenna-Design/blob/hpavan1924-patch-1/project%20report.pdf]
 
 ---
 
